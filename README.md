@@ -2,12 +2,12 @@
 
 **Overview**
 
-This project develops a machine-learning tool to predict fractional free volume (FFV) from a given polymer structure. FFV is difficult to experimentally measure; thus, being able to predict this polymer property can be useful when designing new polymer systems, such as for drug delivery. 
+This project presents a machine-learning tool to predict fractional free volume (FFV) from a given polymer structure. FFV is difficult to measure experimentally; thus, being able to predict this polymer property can be useful when designing new polymer systems, such as for drug delivery. 
 
 **Repo Map**
 Here’s where to find stuff:
-- `plot/` → pngs of plots created in the model  
-- `FFV prediction_group4_CHE1147-Final.ipynb` → notebook file containing code  
+- `plot/` → plots created in the model  
+- `FFV prediction_group4_CHE1147_Final.ipynb` → notebook file containing code  
 - `dataset.csv` → dataset used to train the model 
 - `requirements.txt` → requirements file for dependencies
 
@@ -46,13 +46,13 @@ Or you can run in Colab😊
 
 **Usage**
 
-The FFV prediction_group4_CHE1147 script is designed to follow all modelling steps in order, moving from EDA to pre-processing to training and finally evaluation.
+The FFV prediction_group4_CHE1147 script is designed to follow all modelling steps in order, moving from EDA to pre-processing, to training, and finally to evaluation.
 
 
 
 **Dataset**
 
-The dataset used to train the model was obtained by the NeurIPS - Open Polymer Prediction 2025 kaggle competition which can be found here:
+The dataset used to train the model was obtained by the NeurIPS - Open Polymer Prediction 2025 Kaggle competition, which can be found here:
 NeurIPS - Open Polymer Prediction 2025. https://kaggle.com/neurips-open-polymer-prediction-2025 (accessed 2025-10-20).
 
 **Authors**
