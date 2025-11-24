@@ -14,6 +14,7 @@ Here’s where to find stuff:
 **Setup the Environment**
 
 Python version 3.11.14
+
 To run this project locally, you can create a Python virtual environment and install dependencies from `requirements.txt`:
 
 ```bash
