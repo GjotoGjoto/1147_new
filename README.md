@@ -1,4 +1,4 @@
-# Developing a Machine-Learning Algorithm to Predict Fractional Free Volume from a Polymer Structure
+# Developing a Machine-Learning Algorithm to Predict Fractional Free Volume for a Polymer
 
 **Overview**
 
