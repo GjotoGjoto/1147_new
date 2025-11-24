@@ -7,7 +7,7 @@ This project develops a machine-learning tool to predict fractional free volume 
 **Repo Map**
 Here’s where to find stuff:
 - `plot/` → pngs of plots created in the model  
-- `FFV prediction_group4_CHE1147.ipynb` → notebook file containing code  
+- `FFV prediction_group4_CHE1147-Final.ipynb` → notebook file containing code  
 - `dataset.csv` → dataset used to train the model 
 - `requirements.txt` → requirements file for dependencies
 
